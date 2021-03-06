@@ -125,10 +125,10 @@ public:
         vSeeds.emplace_back("seed2.billcoin.xyz");
         vSeeds.emplace_back("seed3.billcoin.xyz");
 
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,25);
-        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,117);
-        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,50);
-        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,176);
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,55);
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,25);
+        base58Prefixes[SCRIPT_ADDRESS2] = std::vector<unsigned char>(1,26);
+        base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1,56);
         base58Prefixes[EXT_PUBLIC_KEY] = {0xde, 0x88, 0xB2, 0x1E};
         base58Prefixes[EXT_SECRET_KEY] = {0xde, 0x88, 0xAD, 0xE4};
 
