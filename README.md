@@ -13,7 +13,7 @@ out collectively by the network. Billcoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Billcoin Core software, see [https://billcoin.xyz](https://billcoin.xyz).
+the Billcoin Core software, see [https://billcoin.xyz](https://billcoin.xyz). Actually, probably not.
 
 What is Billcoin Really?
 -----------------------
