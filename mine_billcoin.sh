@@ -2,5 +2,5 @@
 echo "Mining... Press [CTRL+C] to stop"
 while :
 do
-  ./src/billcoin-cli generatetoaddress 1 bFsJ7wAPf1qzweEQqETCNWW4TWGfUE9Pcp
+  ./src/billcoin-cli generatetoaddress 1 bFer8znAMQGdhWXmqwNy8HZDnnwGWEW8rf
 done
