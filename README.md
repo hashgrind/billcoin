@@ -20,7 +20,7 @@ What is Billcoin Really?
 
 Billcoin is a ripoff, uhh, is heavily inspired by that other well known scrypt-based cryptocurrency. We lub you litecoin.
 
-It has the following significant improvements: 1000x money supply cap (84,000,000,000 BIL max), halving every 840,000,000 BIL, 10x faster coinbase maturity (i.e. more immature money), twice daily-targeted difficulty rebalancing, blocks targeted every 30 sec, better base58 values/other naming, etc. Various surprise changes left as a pleasant surprise/shock.
+It has the following significant improvements: 1000x money supply cap (84,000,000,000 BIL max), halving every 840,000,000 BIL, 10x faster coinbase maturity (i.e. more immature money), twice daily-targeted difficulty rebalancing, blocks targeted every 15 sec, better base58 values/other naming, etc. Various surprise changes left as a pleasant surprise/shock.
 
 You shouldn't use this for anything.
 
