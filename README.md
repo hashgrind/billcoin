@@ -4,7 +4,9 @@ Billcoin Core
 What is Billcoin?
 ----------------
 
-Billcoin is a distributed artistic expression; it is an ever-evolving interactive work of creativity, collectively creating the Billcoin blockchain work of art. The artistic expression collectively is evolved through interaction with the Billcoin blockchain and the Billcoin network.
+Billcoin is a process of religious observance, reflecting a unified sense of all holiness in digital form -- imperfectly, with ever increasing closeness to the divine, as the Billcoin blockchain is created. The Billcoin network connects all followers of Billcoin in a shared religious practice.
+
+Worship is conducted via the art created by Billcoin. This is due to Billcoin also being a distributed artistic expression; it is an ever-evolving interactive work of creativity, collectively creating the Billcoin blockchain work of art, in successive approximations of the divine. The artistic expression collectively is evolved through interaction with the Billcoin blockchain and the Billcoin network.
 
 What Billcoin is Not
 ----------------
