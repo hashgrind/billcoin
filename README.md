@@ -4,17 +4,26 @@ Billcoin Core
 What is Billcoin?
 ----------------
 
-Billcoin is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Billcoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Billcoin Core is the name of open source
-software which enables the use of this currency.
+Billcoin is a distributed artistic expression; it is an ever-evolving interactive work of creativity, collectively creating the Billcoin blockchain work of art. The artistic expression collectively is evolved through interaction with the Billcoin blockchain and the Billcoin network.
 
-What is Billcoin Really?
------------------------
+What Billcoin is Not
+----------------
+
+Billcoin is not an experimental digital currency that enables instant payments to
+anyone, anywhere in the world. Billcoin uses peer-to-peer technology to operate
+with no central authority: managing transactions and issuing Billcoin are carried
+out collectively by the network. Billcoin Core is the name of open source
+software which enables the use of Billcoin.
+
+Billcoin is neither money, nor a currency, nor a security.
+
+Billcoin does not have value.
+
+How Did Billcoin Happen?
+------------------------
 
 Billcoin is a ripoff, uhh, is heavily inspired by that other well known scrypt-based
-cryptocurrency. We lub you litecoin.
+cryptothing that rhymes with fight coin.
 
 It has the following significant "improvements:" 1000x money supply cap (84,000,000,000 BIL max),
 halving every 840,000,000 BIL, 10x faster coinbase maturity (i.e. more immature money),
@@ -24,6 +33,11 @@ superior base58 values/other naming, etc. Various surprise changes left as a ple
 Easter eggs and inside jokes abound.
 
 You almost definitely shouldn't use this for anything.
+
+Appropriate Usages of Billcoin
+------------------------------
+
+Do not use Billcoin.
 
 How to Mistakes and Regrets
 ---------------------------
